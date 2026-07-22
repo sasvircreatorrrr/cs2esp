@@ -1,0 +1,26 @@
+--CHANGE FUNCTIONS HERE! MADE BY IMBATHEDEV DELETE THIS LINE AFTER U CHANGE FUNCTIONS. ENJOY :){
+    "esp": {
+        "enabled": true,
+        "players": true,
+        "items": true,
+        "distance": true,
+        "health": true,
+        "weapon": true
+    },
+    "aim": {
+        "assist": false,
+        "bone": "head",
+        "fov": 3.0,
+        "smooth": 10
+    },
+    "visual": {
+        "theme": "dark",
+        "opacity": 0.8,
+        "crosshair": true
+    },
+    "safety": {
+        "panic_key": "DELETE",
+        "auto_close": false,
+        "checksum_check": true
+    }
+}
